@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tp",
+    "name": "テレポート",
+    "edition": "java",
+    "category": "player",
+    "level": "basic",
+    "syntax": ["/tp <target> <x> <y> <z>", "/tp <target> <destination>"],
+    "aliases": ["teleport"],
+    "descriptionJP": "対象を指定座標または別の対象の位置に移動させる。",
+    "examples": ["/tp @p 100 64 -200", "/tp @p @s"],
+    "notes": ""
+  }
+]

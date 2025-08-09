@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sharpness",
+    "name": "ダメージ増加",
+    "edition": "java",
+    "maxLevel": 5,
+    "slots": ["sword", "tool", "book"],
+    "conflicts": ["smite", "bane_of_arthropods"],
+    "descriptionJP": "近接攻撃のダメージを増やす。"
+  }
+]

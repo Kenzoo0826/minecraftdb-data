@@ -1,0 +1,33 @@
+[
+  {
+    "id": "crafting_table_java",
+    "name": "作業台",
+    "edition": "java",
+    "category": "ブロック",
+    "ingredients": [
+      { "item": "オークの板材", "count": 4 }
+    ],
+    "outputCount": 1
+  },
+  {
+    "id": "crafting_table_bedrock",
+    "name": "作業台",
+    "edition": "bedrock",
+    "category": "ブロック",
+    "ingredients": [
+      { "item": "板材（任意）", "count": 4 }
+    ],
+    "outputCount": 1
+  },
+  {
+    "id": "stone_pickaxe_java",
+    "name": "石のツルハシ",
+    "edition": "java",
+    "category": "道具",
+    "ingredients": [
+      { "item": "丸石", "count": 3 },
+      { "item": "棒",   "count": 2 }
+    ],
+    "outputCount": 1
+  }
+]
